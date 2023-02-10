@@ -28,7 +28,7 @@ console.log(typeof data);
 
 // loadData().then((data) => console.log(data));
 
-//Not eork
+//Not Work
 // const data1 = loadData();
 // for (let i = 0; i < data1.length; i++) {
 //     const element = data1[i];
@@ -41,7 +41,7 @@ console.log(typeof data);
 //     console.table(element);
 // }
 
-//Not work
+//Not Work
 // for (var key in data) {
 //     console.log(key);
 // }
